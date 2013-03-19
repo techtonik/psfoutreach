@@ -382,7 +382,6 @@ div.item div.header h2 span {
 div.item div.footer {
   font-size: 12px;
   font-weight: bold;
-  text-transform: uppercase;
 }
 
 div.pagination {
@@ -429,7 +428,6 @@ dl.archives small span {
   margin: 40px 0px 15px 0px;
   font-size: 12px;
   color: #737373;
-  text-transform: uppercase;
 }
 
 div.code {
